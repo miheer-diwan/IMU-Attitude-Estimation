@@ -1,5 +1,5 @@
 ## IMU Attitude Estimation Using Multiple Filters
- This project implements a pipeline for estimating the quaternion-based 6D pose of an IMU using a Complementary Filter, Madgwick Filter, and Unscented Kalman Filter.
+ This project implements a pipeline for estimating the quaternion-based 3D pose of an IMU using a Complementary Filter, Madgwick Filter, and Unscented Kalman Filter.
 
 Refer to the [Report](Report.pdf) for implementation details.
 
